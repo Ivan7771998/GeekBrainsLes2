@@ -1,6 +1,4 @@
-package com.geekbrains.myhomework;
-
-import java.awt.*;
+package com.geekbrains.myhomework.lessons2;
 
 public class Main {
     public static void main(String[] args) {
