@@ -1,4 +1,4 @@
-package com.geekbrains.myhomework;
+package com.geekbrains.myhomework.lessons2;
 
 public class MyArraySizeException extends Exception {
 
